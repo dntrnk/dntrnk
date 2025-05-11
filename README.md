@@ -2,4 +2,4 @@
 
 ![dntrnkText](https://github.com/user-attachments/assets/f183be2a-1497-4e50-87f7-7eb99c291cf5)
 
-![skills](https://skillicons.dev/icons?i=py,godot,gamemakerstudio,lua)
+![skills](https://skillicons.dev/icons?i=godot,gamemakerstudio,lua,py,html)
